@@ -222,10 +222,7 @@ body {
   text-align: center;
 }
 
-.dvig {
-  padding-left: 280px;
-  padding-right: auto;
-}
+
 /* !!!!!!!!!!РОЗМЕТКА ПОРТФОЛИО!!!!!!!!! */
 
 .section-container {
@@ -238,6 +235,7 @@ body {
 }
 .filter {
   display: flex;
+  justify-content: center;
   margin: 0;
   padding: 0;
   margin-bottom: 50px;
@@ -552,7 +550,7 @@ body {
 }
 .footer-logo {
   display: block;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .footer-nav > .auth-info:not(:last-child) {
