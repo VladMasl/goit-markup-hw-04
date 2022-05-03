@@ -346,8 +346,7 @@ body {
   background-color: var(--footer-address-color);
 }
 
-.cards:hover,
-.cards:focus {
+.cards:hover{
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
@@ -519,15 +518,6 @@ body {
   background-color: var(--primary-button-color);
 }
 
-.decor {
-  height: 70px;
-  width: 70px;
-}
-
-.diagram {
-  width: 70px;
-  height: 53.69px;
-}
 
 /* .indent-benefitc:not(:f){
     margin-right: 30px;
@@ -730,36 +720,6 @@ body {
 
 .customers {
   fill:rgba(175, 177, 184, 1);
-}
-
-.group-a {
-  width: 41px;
-  height: 46.7px;
-}
-
-.group-b {
-  width: 40px;
-  height: 52px;
-}
-
-.group-c {
-  width: 43.46px;
-  height: 41.18px;
-}
-
-.group-d {
-  width: 84.44px;
-  height: 40.62px;
-}
-
-.group-e {
-  width: 62.54px;
-  height: 45.43px;
-}
-
-.group-f {
-  width: 93.79px;
-  height: 43.93px;
 }
 
 .clients:not(:last-child) {
